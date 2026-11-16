@@ -33,7 +33,7 @@ export function Sidebar() {
             {/* Brand */}
             <div className="flex h-16 items-center border-b border-gray-100 px-6">
                 <h1 className="text-lg font-semibold tracking-tight text-gray-900">
-                    Todo AI
+                   AI-Based Task Management System
                 </h1>
             </div>
 
